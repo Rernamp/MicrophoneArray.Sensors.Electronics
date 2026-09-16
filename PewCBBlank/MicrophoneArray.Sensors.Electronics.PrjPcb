@@ -80,7 +80,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IJSRCXQJ
 
 [Document3]
-DocumentPath=MicrophoneArray.Sensors.Electronics.SchDoc
+DocumentPath=..\MicrophoneArray.Sensors.Electronics.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,7 +90,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
