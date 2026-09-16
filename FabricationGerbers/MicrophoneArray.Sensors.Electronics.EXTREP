@@ -1,12 +1,15 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MicrophoneArray.Sensors.Electronics.GBR   16.09.2026  21:32:02
+Gerber File Extension Report For: MicrophoneArray.Sensors.Electronics.GBR   16.09.2026  21:32:09
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
 .gbr                Top Solder                              
-.gbr                PCB_Contour                             
+.gbr                Bottom Solder                           
+.gbr                Profile                                 
 .gbr                Plated through-hole drill file          
 ------------------------------------------------------------------------------------------
