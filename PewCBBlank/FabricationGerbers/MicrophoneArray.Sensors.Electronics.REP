@@ -85,6 +85,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : MicrophoneArray.Sensors.Electronics_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MicrophoneArray.Sensors.Electronics_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : MicrophoneArray.Sensors.Electronics_Profile.gbr
 
