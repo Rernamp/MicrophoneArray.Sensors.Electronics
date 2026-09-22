@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MicrophoneArray.Sensors.WithConnector.ForPcbFactory.PcbDoc]
+   Generated File[MicrophoneArray.Sensors.WithConnector.ForPcbFactory.TXT]
+   Generated File[MicrophoneArray.Sensors.WithConnector.ForPcbFactory.DRL]
+   Generated File[MicrophoneArray.Sensors.WithConnector.ForPcbFactory.LDP]
+   Generated File[MicrophoneArray.Sensors.WithConnector.ForPcbFactory.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:10:09 On 22.09.2026

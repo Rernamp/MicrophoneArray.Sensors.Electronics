@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MicrophoneArray.Sensors.WithConnector.ForPcbFactory.PcbDoc   22.09.2026  23:10:08
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MicrophoneArray.Sensors.WithConnector.ForPcbFactory.TXT
+EIA File   : MicrophoneArray.Sensors.WithConnector.ForPcbFactory.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             50        PTH        335.15mm (13.19inch)
+T2      1mm (39mil)                                               Round             17        PTH        95.45mm (3.76inch)
+T3      3.2mm (126mil)                                            Round             2         PTH        16.90mm (0.67inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              69
+
+Total Processing Time (hh:mm:ss) : 00:00:01
